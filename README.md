@@ -1,4 +1,4 @@
-# Well_Being_Log
+# --- Well_Being_Log ---
 
 General Well Being Log in C Language 
 ____________________________________
