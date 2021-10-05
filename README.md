@@ -1,7 +1,7 @@
 # Well_Being_Log
 
-General Well Being Log 
-______________________
+General Well Being Log in C Language 
+____________________________________
 
 
 Project Overview:
@@ -12,4 +12,14 @@ Project Overview:
 * Asks the user to enter morning well being rating between 0.0 and 5.0 inclusive.
 * Asks the user to enter evening well being rating between 0.0 and 5.0 inclusive. 
 * Prints morning total rating, evening total rating, overall total rating, average morning rating, average evening rating and overall average rating.
+____________________________________
 
+
+Language Topics:
+
+* Simple Interactive Prorgam.
+* Use of Selection Constructs.
+* Use of Iteration Constructs.
+* Nesting Logical Code Blocks.
+* Mathematical Calculations.
+____________________________________
