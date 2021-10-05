@@ -22,4 +22,3 @@ Language Topics:
 * Use of Iteration Constructs.
 * Nesting Logical Code Blocks.
 * Mathematical Calculations.
-____________________________________
